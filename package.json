@@ -1,16 +1,16 @@
 {
     "name": "@spothq/solana-wallet-adapter",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "",
     "repository": "https://github.com/spothq/solana-wallet-adapter",
     "license": "Apache-2.0",
     "type": "module",
     "sideEffects": false,
     "main": "lib/cjs/index.js",
-    "module": "lib/esm/index.mjs",
+    "module": "lib/esm/index.js",
     "types": "lib/types/index.d.ts",
     "exports": {
-        "import": "./lib/esm/index.mjs",
+        "import": "./lib/esm/index.js",
         "require": "./lib/cjs/index.js"
     },
     "files": [

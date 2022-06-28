@@ -1,3 +1,3 @@
-# `@solana/wallet-adapter-spot`
+# `@spothq/solana-wallet-adapter`
 
 Coming soon.
